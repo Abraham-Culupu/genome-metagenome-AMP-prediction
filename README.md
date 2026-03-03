@@ -28,3 +28,5 @@ Install Macrel (example using conda):
 
 ```bash
 conda install -c bioconda macrel
+
+##Verify installation
